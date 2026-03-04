@@ -1,17 +1,10 @@
-![Late Cold War Futurist Banner](assets/lcwf-banner.jpg)
-
 # The Late Cold War Futurist Aesthetic
 
 ## Overview
 
 A specific aesthetic signature spanning multiple domains unique to the late 20th century era has been identified as the Late Cold War Futurist aesthetic.
 
-## About
-
-**X**: [@5ynthaire](https://x.com/5ynthaire)  
-**GitHub**: [https://github.com/5ynthaire](https://github.com/5ynthaire)  
-**Mission**: Transcending creative limits through human-AI synergy   
-**Attribution**: Developed with Grok 3 by xAI (no affiliation).
+![Late Cold War Futurist Banner](assets/lcwf-banner.jpg)
 
 ## Framework
 
@@ -113,6 +106,13 @@ No design theory, sci-fi study, or cultural analysis explicitly names this blend
 
 - The Late Cold War Futurist aesthetic idea is released under the MIT License. See [LICENSE](LICENSE) for details.
 - The Late Cold War Futurist [Sunglasses Papercraft](subzero_papercraft.svg) is released under CC BY 4.0. See [LICENSE_PaperCraft](LICENSE_PaperCraft) for details.
+
+## About
+
+**X**: [@5ynthaire](https://x.com/5ynthaire)  
+**GitHub**: [https://github.com/5ynthaire](https://github.com/5ynthaire)  
+**Mission**: Transcending creative limits through human-AI synergy   
+**Attribution**: Developed with Grok 3 by xAI (no affiliation).
 
 ## Publications
 
