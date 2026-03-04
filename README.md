@@ -1,3 +1,5 @@
+![Late Cold War Futurist Banner](assets/lcwf-banner.jpg)
+
 # The Late Cold War Futurist Aesthetic
 
 ## Overview
