@@ -109,8 +109,8 @@ No design theory, sci-fi study, or cultural analysis explicitly names this blend
 
 ## License
 
-- The Late Cold War Futurist aesthetic idea is released under the MIT License. See [LICENSE] for details.
-- The Late Cold War Futurist [Sunglasses Papercraft](subzero_papercraft.svg) is released under CC BY 4.0. See [LICENSE_PaperCraft] for details.
+- The Late Cold War Futurist aesthetic idea is released under the MIT License. See [LICENSE](LICENSE) for details.
+- The Late Cold War Futurist [Sunglasses Papercraft](subzero_papercraft.svg) is released under CC BY 4.0. See [LICENSE_PaperCraft](LICENSE_PaperCraft) for details.
 
 ## Publications
 
